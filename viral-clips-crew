@@ -1,0 +1,4 @@
+git checkout -b my-new-branch
+git add .
+git commit -m "Your commit message"
+git push origin my-new-branch
